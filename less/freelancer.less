@@ -19,7 +19,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-	color: @brand-success;
+	color: @brand-primary;
 	outline: none;
 }
 
@@ -51,12 +51,12 @@ hr.star-primary:after {
 }
 
 hr.star-light {
-    border-color: white;
+    border-color: @brand-dark;
 }
 
 hr.star-light:after {
     background-color: @brand-success;
-    color: white;
+    color: @brand-dark;
 }
 
 hr.star-primary {
@@ -80,7 +80,7 @@ hr.star-primary:after {
 header {
 	text-align: center;
 	background: @brand-success;
-	color: white;
+	color: @brand-dark;
 	.container {
 		padding-top: 100px;
 		padding-bottom: 50px;
@@ -164,16 +164,19 @@ header {
 	}
 }
 
-.navbar-default .navbar-nav>.active>a,
-.navbar-default .navbar-nav>.active>a:hover,
-.navbar-default .navbar-nav>.active>a:focus {
-    background-color: @brand-dark;
-}
-
 .navbar-default,
 .navbar-inverse {
 	border: none;
     background-color: @brand-primary
+}
+
+.navbar-default {
+    .navbar-brand:hover,
+    .navbar-brand:focus,
+    .navbar-brand:active,
+    .navbar-brand.active {
+        color: @brand-dark;
+    }
 }
 
 section {
@@ -186,7 +189,7 @@ section {
 
 section.success {
 	background: @brand-success;
-	color: white;
+	color: @brand-dark;
 }
 
 @media(max-width:767px) {
@@ -207,7 +210,7 @@ section.success {
             position: relative;
             max-width: 400px;
             margin: 0 auto;
-            color: white;
+            color: @brand-dark;
         }
     }
     * {
