@@ -3,7 +3,7 @@
 $i18n['{{base}}'] = '../';
 $i18n['{{langid}}'] = 'es';
 
-$i18n['{{metadescription}}'] = 'Eat this one. Comparte comida con tus compañeros de trabajo o de clase.';
+$i18n['{{metadescription}}'] = 'Eat this one. Comparte comida con tus compañeros de trabajo o clase.';
 $i18n['{{metakeywords}}'] = 'Comer,fiambrera,comida,cena,compartir,comañeros,trabajo,clase';
 $i18n['{{togglenav}}'] = 'Cambiar navegación';
 $i18n['{{about}}'] = 'Sobre';
