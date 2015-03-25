@@ -10,7 +10,7 @@ $i18n['{{togglenav}}'] = 'Toggle navigation';
 $i18n['{{about}}'] = 'About';
 $i18n['{{downloads}}'] = 'Downloads';
 $i18n['{{contact}}'] = 'Contact';
-$i18n['{{selectlang}}'] = 'Select language';
+$i18n['{{selectlang}}'] = 'Language';
 $i18n['{{shortdesc}}'] = 'Share cooking specialties with your colleagues or classmates at lunch time.';
 $i18n['{{subshortdesc}}'] = 'Who cooks today?';
 $i18n['{{about1}}'] = 'Forget about instant noodles, paying for junk food, cooking every evening or eating the same lunchbox every weekday.';
@@ -22,7 +22,7 @@ $i18n['{{contactsupport1}}'] = 'Send us an email with your questions, suggestion
 $i18n['{{aroundtheweb}}'] = 'Around the web';
 $i18n['{{opensource}}'] = 'Open Source';
 $i18n['{{technicalstack}}'] = 'All the Eat this one technical stack, from this website to the mobile apps and the backend is based on open source technologies and is available in our <a href="http://github.com/eat-this-one" target="_blank">github account</a>.';
-$i18n['{{androidmodal}}'] = 'While the app is still not available in Google Play you can download and install it from <a href="http://eat-this-one.com/android.apk">here</a>.';
+$i18n['{{androidmodal}}'] = 'You can download and install the app from <a href="http://eat-this-one.com/android.apk">here</a>. It will be soon available in Google Play.';
 $i18n['{{androidsupported}}'] = 'Supported platforms:&nbsp;<strong>Android 4.0 onwards</strong>';
 $i18n['{{androiddate}}'] = 'Date:&nbsp;<strong>March 2015</strong>';
 $i18n['{{close}}'] = 'Close';
