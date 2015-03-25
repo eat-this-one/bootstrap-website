@@ -1,2 +1,3 @@
 User-agent: *
-Disallow:
+Disallow: build.php
+Disallow: run-recess.sh
