@@ -9,6 +9,7 @@ $i18n['{{togglenav}}'] = 'Cambiar navegación';
 $i18n['{{about}}'] = 'Sobre';
 $i18n['{{downloads}}'] = 'Descargas';
 $i18n['{{contact}}'] = 'Contacto';
+$i18n['{{selectlang}}'] = 'Seleccionar idioma';
 $i18n['{{shortdesc}}'] = 'Comparte comida con tus compañeros de trabajo o de clase.';
 $i18n['{{subshortdesc}}'] = 'Quien cocina hoy?';
 $i18n['{{about1}}'] = 'Olvidate de pagar por comida basura, de cocinar cada dia o llevarte la misma fiambrera al trabajo cada dia.';

@@ -10,6 +10,7 @@ $i18n['{{togglenav}}'] = 'Toggle navigation';
 $i18n['{{about}}'] = 'About';
 $i18n['{{downloads}}'] = 'Downloads';
 $i18n['{{contact}}'] = 'Contact';
+$i18n['{{selectlang}}'] = 'Select language';
 $i18n['{{shortdesc}}'] = 'Share cooking specialties with your colleagues or classmates at lunch time.';
 $i18n['{{subshortdesc}}'] = 'Who cooks today?';
 $i18n['{{about1}}'] = 'Forget about instant noodles, paying for junk food, cooking every evening or eating the same lunchbox every weekday.';
