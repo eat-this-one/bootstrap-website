@@ -8,9 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{metadescription}}">
     <meta name="keywords" content="{{metakeywords}}">
-    <meta name="author" content="Eat this one">
+    <meta name="author" content="Eat this one!">
 
-    <title>Eat this one</title>
+    <title>Eat this one!</title>
 
     <base href="{{base}}"/>
 
@@ -71,7 +71,7 @@
                             {{selectlang}}
                             <span class="caret"></span>
                         </a>
-                        <ul class="dropdown-menu" role="menu" aria-labelledby="drop3">
+                        <ul class="dropdown-menu" role="menu" aria-labelledby="id-lang-menu">
                             <li role="presentation"><a role="menuitem" tabindex="-1" href="./">English</a></li>
                             <li role="presentation"><a role="menuitem" tabindex="-1" href="./es">Español</a></li>
                         </ul>
@@ -169,7 +169,7 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <h3>{{contactsupport}}</h3>
-                    <p>{{contactsupport1}}</br>
+                    <p>{{contactsupport1}}<br/>
                     <a href="mailto:support@eat-this-one.com">support@eat-this-one.com</a></p>
                 </div>
             </div>
@@ -188,7 +188,7 @@
                                 <a href="http://www.facebook.com/EatThisOne" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
                             </li>
                             <li>
-                                <a href="http://plus.google.com/+EatThisOne" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
+                                <a href="https://plus.google.com/112013749414426587533" rel="publisher" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
                             </li>
                             <li>
                                 <a href="http://twitter.com/EatThisOne" target="_blank" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
