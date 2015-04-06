@@ -21,9 +21,9 @@ $i18n['{{contactsupport1}}'] = 'Envíanos un correo con tus preguntas, sugerenci
 $i18n['{{aroundtheweb}}'] = 'En la red';
 $i18n['{{opensource}}'] = 'Código abierto';
 $i18n['{{technicalstack}}'] = 'Todo el software en el que está basado Eat this one, desde las aplicaciones de móvil hasta el servidor, es de código abierto y está disponible en nuestra <a href="http://github.com/eat-this-one" target="_blank">cuenta de github</a>.';
-$i18n['{{androidmodal}}'] = 'Puedes descargar la app desde <a href="http://eat-this-one.com/android.apk">aquí</a>. Pronto estará disponible en Google Play.';
+$i18n['{{androidmodal}}'] = 'Puedes descargar la app para Android en Google Play: <a href="http://eat-this-one.com/android.apk">aquí</a>.';
 $i18n['{{androidsupported}}'] = 'Soporte:&nbsp;<strong>Android 4.0 y versiones superiores</strong>';
 $i18n['{{androiddate}}'] = 'Fecha:&nbsp;<strong>Marzo 2015</strong>';
 $i18n['{{close}}'] = 'Cerrar';
-$i18n['{{iosmodal}}'] = 'La app de iOS aun está en fase de desarrollo, <a href="http://signup.eat-this-one.com" target="_blank">apúntate</a> a nuestra lista para recibir las últimas noticias sobre su progreso.';
+$i18n['{{iosmodal}}'] = 'Puedes descargar la app para iOS en iTunes: <a href="http://itunes.com/apps/eatthisone">aquí</a>.';
 $i18n['{{iosmodaldate}}'] = 'Fecha:&nbsp;<strong>Marzo 2015</strong>';

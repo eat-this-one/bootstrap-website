@@ -22,9 +22,9 @@ $i18n['{{contactsupport1}}'] = 'Send us an email with your questions, suggestion
 $i18n['{{aroundtheweb}}'] = 'Around the web';
 $i18n['{{opensource}}'] = 'Open Source';
 $i18n['{{technicalstack}}'] = 'All the Eat this one technical stack, from this website to the mobile apps and the backend is based on open source technologies and is available in our <a href="http://github.com/eat-this-one" target="_blank">github account</a>.';
-$i18n['{{androidmodal}}'] = 'You can download and install the app from <a href="http://eat-this-one.com/android.apk">here</a>. It will be soon available in Google Play.';
+$i18n['{{androidmodal}}'] = 'You can download and install the Android app through Google Play: <a href="http://play.google.com/store/apps/details?id=org.eatthisone.app.android">here</a>.';
 $i18n['{{androidsupported}}'] = 'Supported platforms:&nbsp;<strong>Android 4.0 onwards</strong>';
 $i18n['{{androiddate}}'] = 'Date:&nbsp;<strong>March 2015</strong>';
 $i18n['{{close}}'] = 'Close';
-$i18n['{{iosmodal}}'] = 'The iOS app is still in development stages, <a href="http://signup.eat-this-one.com" target="_blank">sign up</a> for our project updates list if you are interested in its progress.';
+$i18n['{{iosmodal}}'] = 'You can download and install the iOS app through iTunes: <a href="http://itunes.com/apps/eatthisone">here</a>.';
 $i18n['{{iosmodaldate}}'] = 'Date:&nbsp;<strong>March 2015</strong>';
