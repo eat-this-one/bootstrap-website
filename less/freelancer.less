@@ -73,8 +73,8 @@ hr.star-primary:after {
 }
 
 .img-top {
-    height: 192px;
-    width: 192px;
+    max-height: 192px;
+    max-width: 192px;
 }
 
 header {
@@ -95,7 +95,6 @@ header {
 			font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
 			text-transform: uppercase;
 			font-weight: 700;
-			font-size: 3em;
 		}
 		.skills {
 			font-size: 1.25em;
@@ -201,10 +200,22 @@ section.success {
 @media(max-width:767px) {
 	section {
 		padding: 75px 0;
+        h2 {
+            font-size: 32px;
+        }
 	}
 	section.first {
 		padding-top: 75px;
 	}
+    .img-responsive {
+        width: 30%;
+        height: 30%;
+    }
+    header {
+        .container {
+            padding-top: 80px;
+        }
+    }
 }
 
 #downloads {
