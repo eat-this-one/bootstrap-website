@@ -14,6 +14,12 @@ p.small {
 	font-size: 16px;
 }
 
+/* We just have 1 h1 at the top*/
+h1 {
+    font-size: 15px;
+    margin: 0;
+}
+
 a,
 a:hover,
 a:focus,
@@ -69,12 +75,17 @@ hr.star-primary:after {
 }
 
 .img-centered {
+    display: block;
 	margin: 0 auto;
 }
 
 .img-top {
     max-height: 192px;
     max-width: 192px;
+}
+
+.img-step {
+    max-width: 300px;
 }
 
 header {
@@ -111,7 +122,7 @@ header {
 		}
 		.intro-text {
 			.name {
-				font-size: 4.75em;
+				font-size: 3em;
 			}
 			.skills {
 				font-size: 1.75em;
@@ -216,6 +227,25 @@ section.success {
             padding-top: 80px;
         }
     }
+    .navbar-brand {
+        padding: 18.5px 15px 20.5px 40px;
+    }
+}
+
+@media(max-width:450px) {
+    .carousel-caption {
+        bottom: 5px;
+        h2 {
+            font-size: 26px;
+        }
+        h4 {
+            font-size: 10px;
+            margin-top: 5px;
+        }
+    }
+    .carousel-indicators {
+        bottom: 0;
+    }
 }
 
 #downloads {
@@ -239,6 +269,14 @@ section.success {
     #portfolio {
         .portfolio-item {
             margin: 0 0 30px;
+        }
+    }
+}
+
+@media(min-width:1200px) {
+    #how-it-works {
+        .container {
+            width: 1050px;
         }
     }
 }
@@ -445,4 +483,34 @@ footer {
 .terms {
     background-color: @brand-success;
     padding: 16px;
+}
+
+.image {
+    position: relative;
+    width: 100%; /* for IE 6 */
+}
+
+.image-text {
+    position: absolute;
+    top: 200px;
+    left: 0;
+    width: 100%;
+}
+
+.carousel-inner .carousel-caption {
+    color: @brand-dark;
+}
+
+ol.carousel-indicators li {
+    border-color: @brand-dark;
+}
+
+ol.carousel-indicators .active {
+    background-color: @brand-dark;
+}
+
+.carousel-control,
+.carousel-control:active,
+.carousel-control:hover {
+    color: @brand-dark;
 }
