@@ -123,28 +123,28 @@
                 <!-- Slides -->
                 <div class="carousel-inner" role="listbox">
                     <div class="item active">
-                        <img src="img/forthstep.png" alt="{{firststep}}"/>
+                        <img src="img/firststep.jpg" alt="{{firststep}}"/>
                         <div class="carousel-caption">
                             <h2>1</h2>
                             <h4>{{firststep}}</h4>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="img/forthstep.png" alt="{{secondstep}}"/>
+                        <img src="img/secondstep.jpg" alt="{{secondstep}}"/>
                         <div class="carousel-caption">
                             <h2>2</h2>
                             <h4>{{secondstep}}</h4>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="img/forthstep.png" alt="{{thirdstep}}"/>
+                        <img src="img/thirdstep.jpg" alt="{{thirdstep}}"/>
                         <div class="carousel-caption">
                             <h2>3</h2>
                             <h4>{{thirdstep}}</h4>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="img/forthstep.png" alt="{{forthstep}}"/>
+                        <img src="img/forthstep.jpg" alt="{{forthstep}}"/>
                         <div class="carousel-caption">
                             <h2>4</h2>
                             <h4>{{forthstep}}</h4>
