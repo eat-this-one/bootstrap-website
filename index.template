@@ -60,7 +60,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
-                        <a href="#how-to-works">{{howitworks}}</a>
+                        <a href="#how-it-works">{{howitworks}}</a>
                     </li>
                     <li class="page-scroll">
                         <a href="#downloads">{{downloads}}</a>
