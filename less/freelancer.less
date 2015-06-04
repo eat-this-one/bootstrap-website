@@ -232,6 +232,14 @@ section.success {
     }
 }
 
+@media(min-width:450px) {
+    .carousel-control {
+        span.glyphicon-chevron-right {
+            font-size: 200%;
+        }
+    }
+}
+
 @media(max-width:450px) {
     .carousel-caption {
         bottom: 5px;
@@ -245,6 +253,12 @@ section.success {
     }
     .carousel-indicators {
         bottom: 0;
+    }
+    .carousel-control {
+        span.glyphicon-chevron-right {
+            font-size: 140%;
+            top: 45%;
+        }
     }
 }
 
@@ -512,5 +526,6 @@ ol.carousel-indicators .active {
 .carousel-control,
 .carousel-control:active,
 .carousel-control:hover {
-    color: @brand-dark;
+    color: white;
+    opacity: 0.8;
 }
