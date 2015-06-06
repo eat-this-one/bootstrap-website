@@ -19,15 +19,15 @@ $i18n['{{firststep}}'] = 'Even the best chefs are bored of eating the same every
 $i18n['{{secondstep}}'] = 'That\'s why they like to share their cooking specialities';
 $i18n['{{thirdstep}}'] = 'Their colleagues are happy, because tonight they don\'t have to cook for tomorrow';
 $i18n['{{forthstep}}'] = 'And everything is awesome when you are part of a team (because next time another colleague cooks)';
-$i18n['{{downloads1}}'] = 'Download&nbsp;<b>Eat this one</b>, create a group and invite your colleagues or classmates.';
+$i18n['{{downloads1}}'] = 'Download&nbsp;<b>Eat this one</b>, create a group and invite your colleagues or classmates or join their group.';
 $i18n['{{contactsupport}}'] = 'Support and feedback';
 $i18n['{{contactsupport1}}'] = 'Send us an email with your questions, suggestions or complains; we will be glad to hear from you and help you out.';
 $i18n['{{aroundtheweb}}'] = 'Around the web';
 $i18n['{{opensource}}'] = 'Open Source';
 $i18n['{{technicalstack}}'] = 'All the Eat this one technical stack, from this website to the mobile apps and the backend is based on open source technologies and is available in our <a href="http://github.com/eat-this-one" target="_blank">github account</a>.';
-$i18n['{{androidmodal}}'] = 'You can download and install the Android app through Google Play: <a href="http://play.google.com/store/apps/details?id=org.eatthisone.app.android" target="_blank">here</a>.';
+$i18n['{{androidmodal}}'] = '<a href="https://play.google.com/store/apps/details?id=org.eatthisone.app.android">
+  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" /></a>';
 $i18n['{{androidsupported}}'] = 'Supported platforms:&nbsp;<strong>Android 4.1 onwards</strong>';
-$i18n['{{androiddate}}'] = 'Date:&nbsp;<strong>March 2015</strong>';
 $i18n['{{close}}'] = 'Close';
-$i18n['{{iosmodal}}'] = 'You can download and install the iOS app through iTunes: <a href="http://itunes.com/apps/eat-this-one" target="_blank">here</a>.';
-$i18n['{{iosmodaldate}}'] = 'Date:&nbsp;<strong>March 2015</strong>';
+$i18n['{{iosmodal}}'] = '<a href="https://itunes.apple.com/us/app/eat-this-one/id990248444"><img src="img/download_app_store_135x40.svg"/></a>.';
+$i18n['{{iossupported}}'] = 'Date:&nbsp;<strong>March 2015</strong>';

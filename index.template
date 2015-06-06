@@ -278,7 +278,6 @@
                             <p>{{androidmodal}}</p>
                             <ul class="list-inline item-details">
                                 <li>{{androidsupported}}</li>
-                                <li>{{androiddate}}</li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>&nbsp;{{close}}</button>
                         </div>
@@ -303,7 +302,7 @@
                             <hr class="star-primary">
                             <p>{{iosmodal}}</p>
                             <ul class="list-inline item-details">
-                                <li>{{iosmodaldate}}</li>
+                                <li>{{iossupported}}</li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>&nbsp;{{close}}</button>
                         </div>
