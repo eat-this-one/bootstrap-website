@@ -29,5 +29,5 @@ $i18n['{{androidmodal}}'] = '<a href="https://play.google.com/store/apps/details
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" /></a>';
 $i18n['{{androidsupported}}'] = 'Supported platforms:&nbsp;<strong>Android 4.1 onwards</strong>';
 $i18n['{{close}}'] = 'Close';
-$i18n['{{iosmodal}}'] = '<a href="https://itunes.apple.com/us/app/eat-this-one/id990248444"><img src="img/download_app_store_135x40.svg"/></a>.';
+$i18n['{{iosmodal}}'] = '<a href="https://itunes.apple.com/us/app/eat-this-one/id990248444"><img src="img/download_app_store_135x40.svg"/></a>';
 $i18n['{{iossupported}}'] = 'Date:&nbsp;<strong>March 2015</strong>';
