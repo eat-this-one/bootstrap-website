@@ -10,7 +10,7 @@
     <meta name="keywords" content="{{metakeywords}}">
     <meta name="author" content="Eat this one!">
 
-    <title>Eat this one</title>
+    <title>{{title}}</title>
 
     <base href="{{base}}"/>
 

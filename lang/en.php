@@ -3,8 +3,8 @@
 // English is the only language with base ./ as it is in the root dir.
 $i18n['{{base}}'] = './';
 $i18n['{{langid}}'] = 'en';
-
-$i18n['{{metadescription}}'] = 'Eat this one. Share cooking specialties with your colleagues or classmates at lunch time.';
+$i18n['{{title}}'] = 'Eat this one! - Enjoy lunch time at work or at the uni. Who cooks today?';
+$i18n['{{metadescription}}'] = 'Eat this one. Enjoy lunch time at work or at the uni. Share cooking specialties with your colleagues or classmates at lunch time.';
 $i18n['{{metakeywords}}'] = 'Eat,lunchbox,lunch,share,food,meal,colleagues,classmates';
 $i18n['{{togglenav}}'] = 'Toggle navigation';
 $i18n['{{howitworks}}'] = 'How it works?';
