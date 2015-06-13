@@ -18,7 +18,7 @@ $i18n['{{firststep}}'] = 'En lugar de comer lo mismo cada día...';
 $i18n['{{secondstep}}'] = '...cocina algo bueno y compártelo con tus colegas de trabajo o de clase';
 $i18n['{{thirdstep}}'] = 'La próxima vez ellos cocinarán para ti';
 $i18n['{{forthstep}}'] = 'Y todos contentos';
-$i18n['{{downloads1}}'] = 'Descarga&nbsp;<b>Eat this one</b>, crea un grupo e invita a tus compañeros de trabajo o clase o únete a su grupo.';
+$i18n['{{downloads1}}'] = 'Descarga&nbsp;<strong>Eat this one</strong> (es completamente <strong>gratis</strong>) crea un grupo e invita a tus compañeros de trabajo o clase o únete a su grupo.';
 $i18n['{{contactsupport}}'] = 'Soporte y feedback';
 $i18n['{{contactsupport1}}'] = 'Envíanos un correo con tus preguntas, sugerencias o quejas; estaremos contentos de saber de ti aunque sea para quejarte.';
 $i18n['{{aroundtheweb}}'] = 'En la red';
@@ -28,5 +28,5 @@ $i18n['{{androidmodal}}'] = '<a href="https://play.google.com/store/apps/details
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/es_app_rgb_wo_45.png" /></a>';
 $i18n['{{androidsupported}}'] = 'Soporte:&nbsp;<strong>Android 4.1 y versiones superiores</strong>';
 $i18n['{{close}}'] = 'Cerrar';
-$i18n['{{iosmodal}}'] = '<a href="https://itunes.apple.com/us/app/eat-this-one/id990248444"><img src="img/download_app_store_135x40.svg"/></a>';
+$i18n['{{iosmodal}}'] = '<a href="https://itunes.apple.com/app/id990248444"><img src="img/download_app_store_135x40.svg"/></a>';
 $i18n['{{iossupported}}'] = 'Soporte:&nbsp;<strong>iPhone 4 y versiones superiores</strong>';
