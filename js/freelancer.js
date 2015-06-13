@@ -46,3 +46,12 @@ $('.navbar-collapse ul li a').click(function() {
         $('.navbar-toggle:visible').click();
     }
 });
+
+$("#id-carousel").ready(function() {
+    $("#id-carousel").swiperight(function() {
+        $(this).carousel('prev');
+    });
+    $("#id-carousel").swipeleft(function() {
+        $(this).carousel('next');
+    });
+});

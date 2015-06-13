@@ -3,7 +3,7 @@
 $i18n['{{base}}'] = '../';
 $i18n['{{langid}}'] = 'es';
 $i18n['{{title}}'] = 'Eat this one! - Disfruta de la hora de comer en el trabajo o en clase. ¿Quién cocina hoy?';
-$i18n['{{metadescription}}'] = 'Eat this one. Disfruta de la hora de comer en el trabajo o en clase. Comparte comida con tus compañeros de trabajo o clase.';
+$i18n['{{metadescription}}'] = 'Eat this one. Disfruta de la hora de comer en el trabajo o en clase. Comparte comidas con tus compañeros de trabajo o clase.';
 $i18n['{{metakeywords}}'] = 'Comer,fiambrera,comida,cena,compartir,comañeros,trabajo,clase';
 $i18n['{{togglenav}}'] = 'Cambiar navegación';
 $i18n['{{howitworks}}'] = '¿De qué va?';
