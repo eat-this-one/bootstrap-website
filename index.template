@@ -9,7 +9,7 @@
     <meta name="description" content="{{metadescription}}"/>
     <meta name="keywords" content="{{metakeywords}}"/>
     <meta name="author" content="Eat this one!"/>
-    <meta property="og:image" content="http://www.eat-this-one.com/img/forthstep.jpg" />
+    <meta property="og:image" content="http://www.eat-this-one.com/img/feature-image.png" />
     <meta property="og:title" content="{{title}}" />
     <meta property="og:description" content="{{shortdesc}}" />
 
