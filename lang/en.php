@@ -3,15 +3,15 @@
 // English is the only language with base ./ as it is in the root dir.
 $i18n['{{base}}'] = './';
 $i18n['{{langid}}'] = 'en';
-$i18n['{{title}}'] = 'Eat this one! - Enjoy lunch time at work or at the uni. Who cooks today?';
-$i18n['{{metadescription}}'] = 'Eat this one. Enjoy lunch time at work or at the uni. Share cooking specialties with your colleagues or classmates at lunch time.';
+$i18n['{{title}}'] = 'Eat this one! - Enjoy lunch time at work or at uni. Who cooks today?';
+$i18n['{{metadescription}}'] = 'Eat this one. Enjoy lunch time at work or at uni. Share cooking specialties with your colleagues or classmates at lunch time.';
 $i18n['{{metakeywords}}'] = 'Eat,lunchbox,lunch,share,food,meal,colleagues,classmates';
 $i18n['{{togglenav}}'] = 'Toggle navigation';
 $i18n['{{howitworks}}'] = 'How it works?';
 $i18n['{{downloads}}'] = 'Downloads';
 $i18n['{{contact}}'] = 'Contact';
 $i18n['{{selectlang}}'] = 'Language';
-$i18n['{{purpose}}'] = 'Enjoy lunch time at work or at the uni';
+$i18n['{{purpose}}'] = 'Enjoy lunch time at work or at uni';
 $i18n['{{shortdesc}}'] = 'Forget about instant noodles, paying for junk food, cooking every evening or bringing the same lunchbox every day. Who cooks today?';
 $i18n['{{previous}}'] = 'Previous';
 $i18n['{{next}}'] = 'Next';
