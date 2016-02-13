@@ -25,7 +25,7 @@ $i18n['{{aroundtheweb}}'] = 'En la red';
 $i18n['{{opensource}}'] = 'Código abierto';
 $i18n['{{technicalstack}}'] = 'Todo el software en el que está basado Eat this one, desde las aplicaciones de móvil hasta el servidor, es de código abierto y está disponible en nuestra <a href="http://github.com/eat-this-one" target="_blank">cuenta de github</a>.';
 $i18n['{{androidmodal}}'] = '<a href="https://play.google.com/store/apps/details?id=org.eatthisone.app.android">
-  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/es_app_rgb_wo_45.png" /></a>';
+  <img alt="Android app on Google Play" src="img/googleplay.png" /></a>';
 $i18n['{{androidsupported}}'] = 'Soporte:&nbsp;<strong>Android 4.1 y versiones superiores</strong>';
 $i18n['{{close}}'] = 'Cerrar';
 $i18n['{{iosmodal}}'] = '<a href="https://itunes.apple.com/app/id990248444"><img src="img/download_app_store_135x40.svg"/></a>';

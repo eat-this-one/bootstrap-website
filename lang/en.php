@@ -26,7 +26,7 @@ $i18n['{{aroundtheweb}}'] = 'Around the web';
 $i18n['{{opensource}}'] = 'Open Source';
 $i18n['{{technicalstack}}'] = 'All the Eat this one technical stack, from this website to the mobile apps and the backend is based on open source technologies and is available in our <a href="http://github.com/eat-this-one" target="_blank">github account</a>.';
 $i18n['{{androidmodal}}'] = '<a href="https://play.google.com/store/apps/details?id=org.eatthisone.app.android">
-  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" /></a>';
+  <img alt="Android app on Google Play" src="img/googleplay.png" /></a>';
 $i18n['{{androidsupported}}'] = 'Supported platforms:&nbsp;<strong>Android 4.1 onwards</strong>';
 $i18n['{{close}}'] = 'Close';
 $i18n['{{iosmodal}}'] = '<a href="https://itunes.apple.com/app/id990248444"><img src="img/download_app_store_135x40.svg"/></a>';
